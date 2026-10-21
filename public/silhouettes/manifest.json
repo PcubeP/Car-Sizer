@@ -1,0 +1,77 @@
+[
+  {
+    "id": "honda-civic-2022",
+    "widthPx": 2718,
+    "heightPx": 1018
+  },
+  {
+    "id": "mini-cooper-3door",
+    "widthPx": 4395,
+    "heightPx": 1851
+  },
+  {
+    "id": "vw-golf-2020",
+    "widthPx": 4811,
+    "heightPx": 1812
+  },
+  {
+    "id": "vw-tiguan-allspace-2022",
+    "widthPx": 4315,
+    "heightPx": 1533
+  },
+  {
+    "id": "ford-mustang-gt-2019",
+    "widthPx": 4575,
+    "heightPx": 1567
+  },
+  {
+    "id": "vw-passat-gte-2020",
+    "widthPx": 4983,
+    "heightPx": 1685
+  },
+  {
+    "id": "land-rover-defender-2020",
+    "widthPx": 4193,
+    "heightPx": 1994
+  },
+  {
+    "id": "hyundai-creta-2018",
+    "widthPx": 3126,
+    "heightPx": 1350
+  },
+  {
+    "id": "toyota-innova-crysta-2016",
+    "widthPx": 3291,
+    "heightPx": 1499
+  },
+  {
+    "id": "maruti-ertiga-2018",
+    "widthPx": 1579,
+    "heightPx": 627
+  },
+  {
+    "id": "maruti-wagonr-2019",
+    "widthPx": 457,
+    "heightPx": 222
+  },
+  {
+    "id": "honda-city-2012",
+    "widthPx": 3706,
+    "heightPx": 2120
+  },
+  {
+    "id": "maruti-baleno-2018",
+    "widthPx": 3182,
+    "heightPx": 1926
+  },
+  {
+    "id": "maruti-swift-2024",
+    "widthPx": 2947,
+    "heightPx": 1327
+  },
+  {
+    "id": "kia-sorento-2020",
+    "widthPx": 5120,
+    "heightPx": 2007
+  }
+]
