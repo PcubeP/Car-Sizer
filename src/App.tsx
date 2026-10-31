@@ -8,6 +8,7 @@ import { OverlayCanvas, type AlignmentMode } from '@/components/OverlayCanvas'
 import { AlignmentToggle } from '@/components/AlignmentToggle'
 import { ParkingToggle } from '@/components/ParkingToggle'
 import { DimensionSummary } from '@/components/DimensionSummary'
+import { ImageCredits } from '@/components/ImageCredits'
 
 const ALIGNMENTS: AlignmentMode[] = ['center', 'front', 'rear']
 
@@ -99,6 +100,8 @@ function App() {
       <div className="mt-8 overflow-x-auto">
         <DimensionSummary carA={carA} carB={carB} liveA={liveDims[carA.id]} liveB={liveDims[carB.id]} />
       </div>
+
+      <ImageCredits cars={[carA, carB]} />
     </div>
   )
 }
